@@ -10,6 +10,7 @@ public class AleatorioEmple {
 		System.out.println("cambio 1");
 		System.out.println("Caambio 2");
 		System.out.println("cambio 3");
+		System.out.println("Se crea Cambio1");
 	}
 
 	public static void leer() throws IOException {
