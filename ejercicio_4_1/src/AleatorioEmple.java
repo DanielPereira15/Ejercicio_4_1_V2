@@ -8,6 +8,7 @@ public class AleatorioEmple {
 		crear();
 		leer();
 		System.out.println("cambio 1");
+		System.out.println("Caambio 2");
 	}
 
 	public static void leer() throws IOException {
